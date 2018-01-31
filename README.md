@@ -6,3 +6,8 @@ ISecurity est un objet connecté sous la forme d’un tour de coup avec un bouto
 
 ## Cadre
 Dans le cadre d'un projet de 1er année de Master Chef de Projet International à l'Institut Limayrac Toulouse
+
+## Fonction
+Ce project comprend uniquement :
+* la connexion client (Arduino)
+* Un serveur Node.js / Express pour récupéré les appel
